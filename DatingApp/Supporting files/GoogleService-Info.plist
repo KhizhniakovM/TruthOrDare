@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>182294527190-dr498ban8e4jqsug8te4qalist8jj4pn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.182294527190-dr498ban8e4jqsug8te4qalist8jj4pn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5UzS1qXTRB4TM9DVGFmjtDfO3N6qCkxE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>182294527190</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ZachBarrett.DatingApp</string>
+	<key>PROJECT_ID</key>
+	<string>datingapp-14a2a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>datingapp-14a2a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:182294527190:ios:43b27eaa19d698cc71dd77</string>
+	<key>DATABASE_URL</key>
+	<string>https://datingapp-14a2a.firebaseio.com</string>
+</dict>
+</plist>
